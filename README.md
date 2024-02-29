@@ -19,6 +19,7 @@ Step3. 대화형으로 데이터를 분석해보세요!
   <img width="927" alt="image" src="https://github.com/haesung-j/pandashAI/assets/47179168/6885b43f-4cee-44e7-8ba2-7d2172c8473a">
 
 - Download Result 버튼을 누르면, 해당 답변을 다운로드 받을 수 있습니다. 파일의 형태는 png, csv, txt 3가지 중 하나로 다운로드 됩니다.
+  
   <img width="370" alt="image" src="https://github.com/haesung-j/pandashAI/assets/47179168/3161bf1b-96aa-4cad-93a9-6d888f4c3551">
 
 How to run the app
